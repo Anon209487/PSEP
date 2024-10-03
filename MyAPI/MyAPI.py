@@ -7,7 +7,7 @@ response=requests.get(api_url)
 print(response.json())
 
 while(salir is False):
-    opcion=int(input("Elige dato del 1 al 10 0 salida: "))
+    opcion=int(input("Elige dato del 1 al 10 usa 0 salida: "))
     if(opcion>0):
         response=requests.get(api_url+str(opcion))
         print (response.json())
