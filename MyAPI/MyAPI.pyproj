@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>01dbedc3-caa8-42d5-b4a8-e515298f9f84</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MyAPI.py</StartupFile>
+    <StartupFile>ElercicioCRUDJSON.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
